@@ -1,0 +1,14 @@
+/home/pedro.cs/Curso-Alura/TreinoLinq/bin/Debug/net10.0/TreinoLinq
+/home/pedro.cs/Curso-Alura/TreinoLinq/bin/Debug/net10.0/TreinoLinq.deps.json
+/home/pedro.cs/Curso-Alura/TreinoLinq/bin/Debug/net10.0/TreinoLinq.runtimeconfig.json
+/home/pedro.cs/Curso-Alura/TreinoLinq/bin/Debug/net10.0/TreinoLinq.dll
+/home/pedro.cs/Curso-Alura/TreinoLinq/bin/Debug/net10.0/TreinoLinq.pdb
+/home/pedro.cs/Curso-Alura/TreinoLinq/obj/Debug/net10.0/TreinoLinq.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro.cs/Curso-Alura/TreinoLinq/obj/Debug/net10.0/TreinoLinq.AssemblyInfoInputs.cache
+/home/pedro.cs/Curso-Alura/TreinoLinq/obj/Debug/net10.0/TreinoLinq.AssemblyInfo.cs
+/home/pedro.cs/Curso-Alura/TreinoLinq/obj/Debug/net10.0/TreinoLinq.csproj.CoreCompileInputs.cache
+/home/pedro.cs/Curso-Alura/TreinoLinq/obj/Debug/net10.0/TreinoLinq.dll
+/home/pedro.cs/Curso-Alura/TreinoLinq/obj/Debug/net10.0/refint/TreinoLinq.dll
+/home/pedro.cs/Curso-Alura/TreinoLinq/obj/Debug/net10.0/TreinoLinq.pdb
+/home/pedro.cs/Curso-Alura/TreinoLinq/obj/Debug/net10.0/TreinoLinq.genruntimeconfig.cache
+/home/pedro.cs/Curso-Alura/TreinoLinq/obj/Debug/net10.0/ref/TreinoLinq.dll

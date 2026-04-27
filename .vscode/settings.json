@@ -1,0 +1,47 @@
+{
+    "workbench.colorTheme": "Dark Modern (OLED Black) [White]",
+    "editor.semanticHighlighting.enabled": true,
+    "csharp.semanticHighlighting.enabled": true,
+    
+    "editor.tokenColorCustomizations": {
+        "[OLED-Black]": {
+            "functions": "#89b4fa",
+            "keywords": "#c6a0f6",
+            "numbers": "#fab387",
+            "strings": "#a6e3a1",
+            "types": "#f9e2af",
+            "variables": "#f5e0dc",
+            "textMateRules": [
+                {
+                    "scope": [
+                        "keyword.control",
+                        "keyword.other.using",
+                        "storage.type",
+                        "storage.modifier",
+                        "variable.language.this"
+                    ],
+                    "settings": {
+                        "foreground": "#c6a0f6"
+                    }
+                }
+            ]
+        }
+    },
+    "editor.semanticTokenColorCustomizations": {
+        "[OLED-Black]": {
+            "enabled": true,
+            "rules": {
+                "keyword": "#c6a0f6",
+                "number": "#fab387",
+                "function": "#89b4fa",
+                "type": "#f9e2af",
+                "class": "#f9e2af",
+                "struct": "#f9e2af",
+                "interface": "#94e2d5",
+                "variable": "#f5e0dc",
+                "parameter": "#f5e0dc",
+                "namespace": "#89dceb"
+            }
+        }
+    }
+}
