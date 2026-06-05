@@ -39,7 +39,7 @@ Além do projeto principal, desenvolvi desafios extras para consolidar o domíni
 ## 🛠️ Tecnologias
 
 - **Linguagem:** C#
-- **Plataforma:** .NET 6+ / Console Application
+- **Plataforma:** .NET 9+ / Console Application
 - **IDE:** Visual Studio Code
 
 ---
